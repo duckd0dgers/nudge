@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  Nudge
+
+  Created by Mark Nicolaou on 9/21/22.
+  
+*/
+
+//// Additional Device Information
+"Additional Device Information" = "Επιπλέον πληροφορίες συσκευής";
+// Username
+"Username:" = "Χρήστης:";
+// Serial Number
+"Serial Number:" = "Σειριακός Αριθμός:";
+// Architecture
+"Architecture:" = "Αρχιτεκτονική:";
+// Nudge Version
+"Version:" = "Έκδοση:";
+// Language
+"Language:" = "Γλώσσα:";
+
+//// Left side of Nudge
+// Current OS Version
+"Current OS Version:" = "Τρέχουσα έκδοση ΛΣ:";
+// Required OS Version
+"Required OS Version:" = "Απαιτούμενη έκδοση ΛΣ:";
+// Days Remaining To Update
+"Days Remaining To Update:" = "Υπολειπόμενες Ημέρες προς Αναβάθμιση:";
+// Hours Remaining To Update
+"Hours Remaining To Update:" = "Υπολειπόμενες Ώρες προς Αναβάθμιση:";
+// Deferred Count
+"Deferred Count:" = "Αριθμός Αγνοήσεων:";
+// More Info
+"More Info" = "Περισσότερες Πληροφοφορίες";
+
+// Help buttons
+"Click to close" = "Επιλέξτε για κλείσιμο";
+"Click for additional device information" = "Επιλέξτε για περισσότερες πληροφορίες για την συσκευή";
+"Click to zoom into screenshot" = "Επιλέξτε για ζουμ στο screenshot";
+"Click for more information about the security update" = "Επιλέξτε για περισσότερες πληροφορίες σχετικά με την αναβάθμιση ασφαλείας";
+
+//// Right side of Nudge
+"Update Device" = "Αναβαθμιση συσκευής";
+"Your device will restart during this update" = "Η συσκευή σας θα επανακινηθεί κατα την αναβάθμιση αυτή";
+"Important Notes" = "Σημαντικές Πληροφορίες";
+"Updates can take around 30 minutes to complete" = "Οι αναβαθμίσεις μπορούν να διαρκέσουν 30 λεπτά για να ολοκληρωθούν";
+"A fully up-to-date device is required to ensure that IT can accurately protect your device.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps." = "Μια πλήρως αναβαθμισμένη συσκευή απαιτείται προκειμένου να προστατεύεται πλήρως.\n\nΕάν η συσκευή σας δεν είναι πλήρως αναβαθμισμένη, υπάρχει ενδεχόμενο να μην έχετε πρόσβαση στις καθημερινές εργασίες σας.\n\nΓια να ξεκινήσετε την αναβάθμιση, απλώς επιλέξτε το πλήκτρο Αναβάθμιση συσκευής και ακολουθήστε τα επόμενα βήματα.";
+"Your device requires a security update" = "Η συσκευή σας απαιτεί μιά αναβάθμιση ασφαλείας";
+"Your device requires a security update (Demo Mode)" = "Your device requires a security update (Demo Mode)";
+"Later" = "Αργότερα";
+"I understand" = "Κατανοώ";
+"A friendly reminder from your local IT team" = "Μιά φιλική υπενθύμιση απο το τμήμα μηχανογράφησης";
+"Defer" = "Αγνόηση";
+"One Hour" = "Μία ώρα";
+"One Day" = "Μία ημέρα";
+"Custom" = "Custom";
+
+// User Notification
+"Application terminated" = "Τερματισμός Εφαρμογής";
+"Please update your device to use this application" = "Παρακαλώ αναβαθμίστε την συσκευή σας για χρήση αυτής της εφαρμογής";
